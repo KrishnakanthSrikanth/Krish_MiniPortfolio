@@ -6,7 +6,7 @@
 class Me:
     def __init__(self):
         self.name = "Krishnakanth Srikanth"
-        self.github_username = "KrishnakanthSrikanth"
+        self.github_username = "Git_With_Krish"
         self.aspiring_domain = "Machine Learning"
         self.languages_spoken = ["en_US", "ta_IN"]
 
