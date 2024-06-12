@@ -21,7 +21,7 @@ me.say_hi()
 <h1 align="center">📬 Contact Info</h1>
 
 <div align="center">
-  <a href="mailto:workstation.krishnakanthsrikanth1997@gmail.com" target="_blank">
+  <a href="mailto:krishnakanthsrikanth1997@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/krishnakanth-srikanth-2a3a36116/" target="_blank">
