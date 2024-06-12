@@ -1,20 +1,22 @@
 <h1 align="center">👋🏼 Hello People!</h1>
 
+```python
 #!/usr/bin/python
 
-    class Me:
+class Me:
+    def __init__(self):
+        self.name = "Krishnakanth Srikanth"
+        self.github_username = "Git_With_Krish"
+        self.aspiring_domain = "Machine Learning"
+        self.languages_spoken = ["en_US", "ta_IN"]
 
-        def __init__(self):
-            self.name = "Krishnakanth Srikanth"
-            self.github_username = "Git_With_Krish"
-            self.aspiring_domain = "Machine Learning"
-            self.languages_spoken = ["en_US", "ta_IN"]
-    
-        def say_hi(self):
-            print("Thank you for your time to drop by, hope you find something interesting!")
-            
-    me = Me()
-    me.say_hi()
+    def say_hi(self):
+        print("Thank you for your time to drop by, hope you find something interesting!")
+        
+me = Me()
+me.say_hi()
+```
+<br>
 
 <h1 align="center">📬 Contact Info</h1>
 
